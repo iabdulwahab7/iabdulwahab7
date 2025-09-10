@@ -36,7 +36,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
 ### 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&langs_count=10&layout=compact&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&langs_count=10&layout=compact&theme=dark&hide_border=true&hide=javascript,typescript,java,php,ruby,go,kotlin,swift,rust,perl,objective-c,scala,haskell,lua,groovy,elixir,shell,powershell,makefile,markdown,json,yaml,xml,tex,cmake,dockerfile)
 
 <!-- Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwahab7&theme=dark&hide_border=true)
