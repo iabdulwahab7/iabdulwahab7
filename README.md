@@ -32,7 +32,7 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&layout=compact&theme=dark&hide_border=true&hide=c++)
@@ -42,11 +42,5 @@
 
 <!-- Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwahab7&theme=onestar&margin-w=10&no-bg=true&no-frame=true)
-
-<!-- Contributor Rank -->
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=iabdulwahab7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=iabdulwahab7&style=for-the-badge&color=blue)
 
 </div>
