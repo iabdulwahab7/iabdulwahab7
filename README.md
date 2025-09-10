@@ -24,20 +24,21 @@
 ---
 
 ### 🛠 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,git,github,postman,figma,vscode,androidstudio&perline=10)](https://skillicons.dev)
+
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+<!-- Stats (includes public commits only) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-<!-- Top Languages -->
+<!-- Top Languages (hides C++) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&layout=compact&theme=dark&hide_border=true&hide=c++)
 
-<!-- GitHub Streak -->
+<!-- Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwahab7&theme=dark&hide_border=true)
 
 <!-- Trophies -->
