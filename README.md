@@ -32,16 +32,11 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<!-- Full Stats (includes private + invited) -->
+<!-- Full Stats (includes private + invited repos) -->
 ![GitHub Stats](https://wahabdev.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<!-- Most Used Languages (includes private + org repos) -->
+### 📊 Most Used Languages
+<!-- Dynamic from own + invited + org repos -->
 ![Most Used Languages](https://wahabdev.vercel.app/api/top-langs/?username=iabdulwahab7&count_private=true&include_orgs=true&langs_count=10&layout=compact&theme=dark&hide=c%2B%2B)
-
-<!-- Streak (3rd party, no private repos support) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwahab7&theme=dark&hide_border=true)
-
-<!-- Trophies (3rd party, no private repos support) -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwahab7&theme=onestar&margin-w=10&no-bg=true&no-frame=true)
 
 </div>
