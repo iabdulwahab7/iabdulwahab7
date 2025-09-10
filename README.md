@@ -32,11 +32,16 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<!-- Full Stats (includes private + invited repos) -->
-![GitHub Stats](https://wahabdev.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<!-- Stats (public only) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
 ### 📊 Most Used Languages
-<!-- Dynamic from own + invited + org repos -->
-![Most Used Languages](https://wahabdev.vercel.app/api/top-langs/?username=iabdulwahab7&count_private=true&include_orgs=true&langs_count=10&layout=compact&theme=dark&hide=c%2B%2B)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&langs_count=10&layout=compact&theme=dark&hide_border=true)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwahab7&theme=dark&hide_border=true)
+
+<!-- Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwahab7&theme=onestar&margin-w=10&no-bg=true&no-frame=true)
 
 </div>
