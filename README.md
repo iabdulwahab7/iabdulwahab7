@@ -43,7 +43,10 @@
 <!-- Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwahab7&theme=onestar&margin-w=10&no-bg=true&no-frame=true)
 
-<!-- Contribution Graph -->
-![Abdul Wahab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iabdulwahab7&theme=github-dark&hide_border=true)
+<!-- Contributor Rank -->
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=iabdulwahab7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=iabdulwahab7&style=for-the-badge&color=blue)
 
 </div>
