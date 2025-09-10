@@ -31,12 +31,19 @@
 ### 📊 GitHub Stats
 <div align="center">
 
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&layout=compact&theme=dark&hide_border=true&hide=c++)
 
+<!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwahab7&theme=dark&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwahab7&theme=darkhub&margin-w=10&no-bg=true&no-frame=true)
+<!-- Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwahab7&theme=onestar&margin-w=10&no-bg=true&no-frame=true)
+
+<!-- Contribution Graph -->
+![Abdul Wahab's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iabdulwahab7&theme=github-dark&hide_border=true)
 
 </div>
