@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
 
-- 🔭 I’m currently working on **Flutter and Dart**
-- 🌱 I’m currently learning **APIs and Firebase** 
-- 💬 Ask me anything about **Flutter** 
-- 📫 Reach me at **iabdulwahab.edu@gmail.com**
-- 😄 My website: [codingwithabdulwahab.vercel.app](https://codingwithabdulwahab.vercel.app/)
+- 🔭 I’m currently working on **AI-powered cross-platform apps** using **Flutter & Dart**  
+- 🌱 I’m currently deepening my expertise in **OpenAI APIs, Firebase, and scalable architectures**  
+- 💬 Ask me anything about **Flutter, AI integration, or Clean Architecture**  
+- 📫 Reach me at **iabdulwahab.edu@gmail.com**  
+- 😄 My website: [codingwithabdulwahab.vercel.app](https://codingwithabdulwahab.vercel.app/)  
 
 ---
 
