@@ -35,8 +35,8 @@
 <!-- Stats (includes public commits only) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwahab7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-<!-- Top Languages (hides C++) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulwahab7&layout=compact&theme=dark&hide_border=true&hide=c++)
+### 📊 Most Used Languages
+![Abdul Wahab's Most Used Languages](https://your-app-name.vercel.app/api/top-langs/?username=iabdulwahab7&count_private=true&include_orgs=true&langs_count=10&layout=compact&theme=dark)
 
 <!-- Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwahab7&theme=dark&hide_border=true)
